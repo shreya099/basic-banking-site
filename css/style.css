@@ -1,61 +1,56 @@
 body{
 
-	
 }
 .main{
-	background:url('https://img.freepik.com/free-vector/rich-people-keeping-cash-clocks-piggy-bank-vector-illustration-time-is-money-business-time-management-wealth-concept_74855-13218.jpg?size=626&ext=jpg&ga=GA1.2.1481909248.1598108849');
-    height: 455px;
-    width:570px;
-    margin-top:9px;
-    float: left;
-
-
+background:url('https://img.freepik.com/free-vector/rich-people-keeping-cash-clocks-piggy-bank-vector-illustration-time-is-money-business-time-management-wealth-concept_74855-13218.jpg?size=626&ext=jpg&ga=GA1.2.1481909248.1598108849');
+height: 455px;
+width:570px;
+margin-top:9px;
+float: left;
 }
 .text{
-	height: 355px;
-	
-	float: left;
-	width:650px;
-	margin-top:99px;
+height: 355px;
+
+float: left;
+width:650px;
+margin-top:99px;
 }
 .text1{
-	height: 50px;
-
-	text-align: justify;
-	margin-left: 50px;
+height: 50px;
+text-align: justify;
+margin-left: 50px;
 }
 .text1 h3{
-
 font-family: serif;
 font-size: 50px;
 color:#2b468a;
 }
 .text1 p{
 font-family: serif;
-font-size: 20px;	
+font-size: 20px;
 margin-left:20px;
 letter-spacing: 0.04em;
 }
 .text1 button{
-	border-radius:50px;
-	padding: 8px;
-	padding-left:18px;
-	padding-right:18px;
-	background:#ed7d2a;
-	border:none;
-	margin-left:20px;
-	margin-top:30px;
+border-radius:50px;
+padding: 8px;
+padding-left:18px;
+padding-right:18px;
+background:#ed7d2a;
+border:none;
+margin-left:20px;
+margin-top:30px;
 }
 .footer{
-	height: 100px;
-	background:#2b468a;
-	position: relative;
-	top:500px;
-	
+height: 100px;
+background:#2b468a;
+position: relative;
+top:500px;
+
 }
 .footer p{
-	position: relative;
-	top:-440px;
-  margin-left:370px;
-      color:#fff;
+position: relative;
+top:-440px;
+margin-left:370px;
+color:#fff;
 }

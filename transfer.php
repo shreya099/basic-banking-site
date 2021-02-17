@@ -2,7 +2,7 @@
 <?php
 include 'css/style.css';
 include 'media.css';
-  ?>
+?>
 </style>
 <?php
 include 'db.php';
@@ -62,7 +62,7 @@ $amount=$_POST["amount"];?>
   } else {
   echo "0 results";
   }
-  if($reciever==0)
+  if($reciever=='0')
   {
   echo "<script>swal( 'Error','Select reciever!','error' ).then(function() { window. location = 'customers.php'; });;</script>";
   exit();

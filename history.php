@@ -106,7 +106,7 @@ include 'media.css';
     
     
     <th>sender</th>
-    <th>reciever</th>
+    <th>receiver</th>
     <th>amount</th>
 
 
